@@ -4,3 +4,4 @@ Django==5.2.8
 gmqtt==0.7.0
 paho-mqtt==2.1.0
 sqlparse==0.5.3
+
